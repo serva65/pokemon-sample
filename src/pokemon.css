@@ -1,0 +1,21 @@
+.alter-row{
+    background-color:#f0f0f0;
+}
+.selected-row{
+    background-color: #ffffcc;
+}
+.pokemonCollection{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.nextButton{
+    margin-right: 10px;
+}
+.header{
+    color: #3c3c3c;
+    font:  	Arial;
+    font-weight: 500;
+}
+.link{
+    color: gray;
+}
